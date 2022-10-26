@@ -14,6 +14,9 @@ namespace TrackerUI
 	{
 		[Action ("roundDropDown:")]
 		partial void roundDropDown (AppKit.NSComboBox sender);
+
+		[Action ("unplayedOnlyCheckBox:")]
+		partial void unplayedOnlyCheckBox (AppKit.NSButton sender);
 		
 		void ReleaseDesignerOutlets ()
 		{
