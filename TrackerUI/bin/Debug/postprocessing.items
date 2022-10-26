@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <_PostProcessingItem Include="TrackerUI.app/Contents/MacOS/TrackerUI">
+      <BCSymbolMapName>TrackerUI.bcsymbolmap</BCSymbolMapName>
+      <NoDSymUtil>true</NoDSymUtil>
+      <dSYMSourcePathExists>false</dSYMSourcePathExists>
+      <NoSymbolStrip>true</NoSymbolStrip>
+      <dSYMInfoPlistRelativePath>TrackerUI.app.dSYM\Contents\Info.plist</dSYMInfoPlistRelativePath>
+      <SymbolFile>/Users/mleng/Desktop/Dev/C#/TournamentTracker/TrackerUI/obj/Debug/mtouch-symbols.list</SymbolFile>
+      <DSymName>TrackerUI.app.dSYM</DSymName>
+      <SourceProjectPath>/Users/mleng/Desktop/Dev/C#/TournamentTracker/TrackerUI</SourceProjectPath>
+    </_PostProcessingItem>
+  </ItemGroup>
+</Project>

@@ -14,7 +14,7 @@
         "outputPath": "/Users/mleng/Desktop/Dev/C#/TournamentTracker/TrackerLibrary/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/mleng/.nuget/NuGet/NuGet.Config"
+          "/Users/mleng/.config/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
@@ -44,8 +44,7 @@
             "net47",
             "net471",
             "net472",
-            "net48",
-            "net481"
+            "net48"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -54,7 +53,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.402/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.202/RuntimeIdentifierGraph.json"
         }
       }
     }

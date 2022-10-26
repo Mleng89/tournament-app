@@ -1,0 +1,16 @@
+/Users/mleng/Desktop/Dev/C#/TournamentTracker/TrackerUI/bin/Debug/TrackerUI.exe
+/Users/mleng/Desktop/Dev/C#/TournamentTracker/TrackerUI/bin/Debug/TrackerUI.pdb
+/Users/mleng/Desktop/Dev/C#/TournamentTracker/TrackerUI/obj/Debug/actool/_PartialAppManifest.items
+/Users/mleng/Desktop/Dev/C#/TournamentTracker/TrackerUI/obj/Debug/actool/_BundleResourceWithLogicalName.items
+/Users/mleng/Desktop/Dev/C#/TournamentTracker/TrackerUI/obj/Debug/actool/_ProcessedImageAssetsPath.items
+/Users/mleng/Desktop/Dev/C#/TournamentTracker/TrackerUI/obj/Debug/ibtool/_BundleResourceWithLogicalName.items
+/Users/mleng/Desktop/Dev/C#/TournamentTracker/TrackerUI/obj/Debug/ibtool/_ProcessedInterfaceDefinitionsPath.items
+/Users/mleng/Desktop/Dev/C#/TournamentTracker/TrackerUI/obj/Debug/coremlc/_PartialAppManifest.items
+/Users/mleng/Desktop/Dev/C#/TournamentTracker/TrackerUI/obj/Debug/coremlc/_BundleResourceWithLogicalName.items
+/Users/mleng/Desktop/Dev/C#/TournamentTracker/TrackerUI/obj/Debug/coremlc/_ProcessedCoreMLModelsPath.items
+/Users/mleng/Desktop/Dev/C#/TournamentTracker/TrackerUI/obj/Debug/_ProcessedBundleResourcesPath.items
+/Users/mleng/Desktop/Dev/C#/TournamentTracker/TrackerUI/obj/Debug/_ProcessedContentPath.items
+/Users/mleng/Desktop/Dev/C#/TournamentTracker/TrackerUI/obj/Debug/TrackerUI.csproj.AssemblyReference.cache
+/Users/mleng/Desktop/Dev/C#/TournamentTracker/TrackerUI/obj/Debug/TrackerUI.csproj.CoreCompileInputs.cache
+/Users/mleng/Desktop/Dev/C#/TournamentTracker/TrackerUI/obj/Debug/TrackerUI.exe
+/Users/mleng/Desktop/Dev/C#/TournamentTracker/TrackerUI/obj/Debug/TrackerUI.pdb

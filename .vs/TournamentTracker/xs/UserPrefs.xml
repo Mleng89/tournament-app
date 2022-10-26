@@ -1,4 +1,34 @@
-﻿<Properties>
+﻿<Properties StartupConfiguration="{14A75CB2-DC9C-4DB1-A55C-3C6FE3579539}|Default">
   <MonoDevelop.Ide.ItemProperties.TrackerLibrary FirstBuild="True" />
+  <Xamarin.Addins.Core.Project ActiveDebugTarget="MyMacID" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="TrackerUI/ViewController.designer.cs">
+    <Files>
+      <File FileName="TrackerUI/ViewController.designer.cs" Line="1" Column="1" />
+      <File FileName="TrackerUI/Main.cs" Line="14" Column="1" />
+      <File FileName="TrackerUI/ViewController.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TournamentTracker" expanded="True">
+            <Node name="TrackerUI" expanded="True">
+              <Node name="ViewController.cs" expanded="True">
+                <Node name="ViewController.designer.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.TrackerUI FirstBuild="True" PreferredExecutionTarget="MyMacID" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
 </Properties>
